@@ -1,5 +1,5 @@
 # karatemango
 
-A new Flutter project.
+id page , with some information on it.
 
-![image](https://user-images.githubusercontent.com/78962708/144398723-ab83bdd4-bb1f-45ea-a0b6-85ed13939b00.png)
+![ghgh](https://user-images.githubusercontent.com/78962708/147848283-8977cfbe-d4b4-4bd4-a53e-0c7891a43375.png)
